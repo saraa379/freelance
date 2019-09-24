@@ -1,6 +1,6 @@
 import {LANG_CLICKED} from '../actions/constants.js';
 const initialState = {
-	currentLanguage: "swe"
+	currentLanguage: "eng"
 }
 let languageReducer = (state = initialState, action) => {
 	switch( action.type ) {

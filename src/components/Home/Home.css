@@ -15,10 +15,10 @@
   background-size: cover;
   background-attachment: fixed;
   background-image: linear-gradient(
-        rgba(24, 24, 24, 0),
-        rgba(24, 24, 24, 0)
+        rgba(0, 0, 0, 0.7),
+        rgba(0, 0, 0, 0.7)
       ),
-      url(/img/home7.jpg);
+      url(/img/home2.jpg);
   display: flex;
   justify-content: center;
   align-items: center;
